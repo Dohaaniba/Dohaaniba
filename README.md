@@ -2,6 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dohaaniba&label=Profile%20views&color=0e75b6&style=flat" alt="dohaaniba" /> </p>
+<img align="center"  alt="Coding" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 - 📫 How to reach me **anibadoha9@gmail.com**
 
