@@ -1,5 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Doha Aniba </h1>
 
+I'm a passionate software engineer with a love for crafting innovative solutions and exploring new technologies. Currently pursuing my engineering degree in computer science, I'm enthusiastic about developing web and mobile applications that make a difference.
+
 
  # 💫 About Me:
 <br>    🎓 Currently pursuing my engineering degree in computer science.<br>    💻 Proficient in Java (Spring Boot) and JavaScript ( ReactJS, Next.JS and Express JS).<br>    🌱 Always eager to learn.<br>    💬 Ask me about web development or anything tech-related!<br>    📫 Reach out to me at anibadoha9@gmail.com.<br>
