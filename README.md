@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Doha Aniba </h1>
 
-I'm a passionate software engineer with a love for crafting innovative solutions and exploring new technologies. Currently pursuing my engineering degree in computer science, I'm enthusiastic about developing web and mobile applications that make a difference.
+I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.
 
 
  # 💫 About Me:
