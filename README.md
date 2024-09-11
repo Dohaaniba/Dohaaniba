@@ -4,11 +4,14 @@ I am a passionate full stack developer with a knack for crafting robust and scal
 
 
  # About Me ℹ️
-<br>    🎓 Currently a final year softwar engineer at ENSAO.<br>    💻 Proficient in Java (Spring Boot) and JavaScript ( ReactJS, Next.JS and Express JS).<br>    🌱 Able to work flexibly in a team environment.<br>    📫 Reach out to me at anibadoha9@gmail.com.<br>
-
-
-## 🌐 Socials:
+<br>    🎓 Currently a final year softwar engineer at ENSAO.<br>    💻 Proficient in Java (Spring Boot) and JavaScript ( ReactJS, Next.JS and Express JS).<br>    🌱 Able to work flexibly in a team environment.<br>    📫 Reach out to me via:<br>
+anibadoha9@gmail.com.<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/doha-aniba-ba0336210/) 
+
+
+
+
+
 
 
 
