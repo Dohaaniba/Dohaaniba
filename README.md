@@ -11,6 +11,7 @@ I am a passionate full stack developer with a knack for crafting robust and scal
  # Get in Touch 
  📫 Reach out to me via:<br>
  anibadoha9@gmail.com.<br>
+ ✨ My PORTFOLIO ✨:https://portfolioo-mocha-eight.vercel.app/ <br>
  <br>
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/doha-aniba-ba0336210/) 
 
