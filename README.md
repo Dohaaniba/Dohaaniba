@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Doha Aniba </h1>
 
-I am a passionate full stack developer with a knack for crafting robust and scalable web applications. I have honed my skills in front-end technologies like React , as well as back-end technologies like Spring and Node.js . My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.
+I am a passionate full stack developer with a knack for crafting robust and scalable web applications. I have honed my skills in front-end technologies like React , as well as back-end technologies like Spring and Express js . My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.
  
 
 
